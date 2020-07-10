@@ -9,7 +9,7 @@ Phần 4 `Thực hành CFD với Python!` sẽ giới thiệu phương pháp gi�
 
 * [Bài 26](https://nbviewer.jupyter.org/github/SangVn/CFD_Notebook_P4/blob/master/Bai_26.ipynb) Phương pháp tính dòng khuếch tán
 
-* [Bài 26](https://nbviewer.jupyter.org/github/SangVn/CFD_Notebook_P4/blob/master/Bai_26.ipynb) Điều kiện biên
+* [Bài 27](https://nbviewer.jupyter.org/github/SangVn/CFD_Notebook_P4/blob/master/Bai_27.ipynb) Điều kiện biên
 
 * [Bài 28](https://nbviewer.jupyter.org/github/SangVn/CFD_Notebook_P4/blob/master/Bai_28.ipynb) VnCFD_2D_v3
 
